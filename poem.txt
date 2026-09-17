@@ -6,6 +6,7 @@ Orange
 blue 
 Red 
 green
+indigo
 yellow
 red
 
